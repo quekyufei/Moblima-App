@@ -1,4 +1,4 @@
 class MainApp{
 	
-	FU
+	//test
 }
